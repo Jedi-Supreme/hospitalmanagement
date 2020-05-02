@@ -41,6 +41,11 @@ public class ColumnNames {
     public static final String COLUMN_ROLE_ID = "role_id";
     public static final String COLUMN_PERMISSION_ID = "permission_id";
 
+    //-------------------------------------------ICONS----------------------------------------------
+    public static final String COLUMN_MALE_ICON = "male_icon_id";
+    public static final String COLUMN_FEMALE_ICON = "female_icon_id";
+    //-------------------------------------------ICONS----------------------------------------------
+
     public static final String COLUMN_EMPLOYEE_ID = "employee_id";
 
 

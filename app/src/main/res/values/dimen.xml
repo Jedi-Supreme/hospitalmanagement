@@ -4,8 +4,10 @@
     <dimen name="margin_tiny">5dp</dimen>
     <dimen name="margin_small">10dp</dimen>
     <dimen name="margin_med">20dp</dimen>
-    <dimen name="margin_large">35dp</dimen>\
+    <dimen name="margin_large">35dp</dimen>
     <dimen name="normal_text">15sp</dimen>
     <dimen name="med_text">25sp</dimen>
     <dimen name="large_text">35sp</dimen>
+    <dimen name="pro_pic_dim">100dp</dimen>
+    <dimen name="grid_logo">200dp</dimen>
 </resources>

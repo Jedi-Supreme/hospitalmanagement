@@ -31,14 +31,14 @@ dependencies {
 
     //----------------------------------------ROOM DB-----------------------------------------------
     implementation 'android.arch.persistence.room:runtime:1.1.1'
-    implementation 'androidx.lifecycle:lifecycle-extensions:2.0.0'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
     annotationProcessor 'android.arch.persistence.room:compiler:1.1.1'
     //----------------------------------------ROOM DB-----------------------------------------------
 
     //---------------------------------------FIREBASE-----------------------------------------------
-    implementation 'com.google.firebase:firebase-core:17.3.0'
-    implementation 'com.google.firebase:firebase-auth:19.3.0'
-    implementation 'com.google.firebase:firebase-database:19.2.1'
+    implementation 'com.google.firebase:firebase-core:17.4.0'
+    implementation 'com.google.firebase:firebase-auth:19.3.1'
+    implementation 'com.google.firebase:firebase-database:19.3.0'
     implementation 'com.google.firebase:firebase-storage:19.1.1'
     //---------------------------------------FIREBASE-----------------------------------------------
 
@@ -50,6 +50,10 @@ dependencies {
     //---------------------------------------VIEW MODEL---------------------------------------
     //annotationProcessor "android.arch.lifecycle:compiler:1.1.1"
     //---------------------------------------VIEW MODEL---------------------------------------
+
+    //--------------------------------ROUNDED IMAGE-------------------------------------------------
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
+    //--------------------------------ROUNDED IMAGE-------------------------------------------------
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
